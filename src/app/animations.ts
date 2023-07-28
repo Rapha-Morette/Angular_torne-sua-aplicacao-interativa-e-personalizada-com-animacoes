@@ -27,7 +27,6 @@ export const highlightedStatedTrigger = trigger('highlightedStated', [
         transform: 'scale(1.02)',
       })
     ),
-
     animate(200),
   ]),
 ]);
